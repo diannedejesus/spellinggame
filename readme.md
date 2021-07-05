@@ -30,7 +30,7 @@ If the letter typed is one of the displayed letters then the game will highlight
 When the last letter of the sequence is clicked appropriately then the last letter is highlighted, the letter is pronounced, and after that sound finishes playing another sound is played. This sound is associated with the image and is to celebrate completing the sequence. Once the sound finishes the game is reset.
 
 ### User Interface
-![Image of interface](https://github.com/diannedejesus/spellinggame/spellinggame.png)
+![Image of interface](https://github.com/diannedejesus/spellinggame/blob/main/spellinggame.PNG)
 **Title:** Static display of the game's name.
 **Image:** A visualization of the word to be written by the user.
 **Letter Squares:** The correct spelling of the word.
