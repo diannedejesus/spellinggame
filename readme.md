@@ -1,5 +1,5 @@
 
-![Demo of the game](https://github.com/diannedejesus/spellinggame/spellinggamedemo.gif)
+![Demo of the game](https://github.com/diannedejesus/spellinggame/blob/main/spellinggamedemo.gif)
 # The Spelling Game
 This application is a spelling practice game aimed at young children.
 
@@ -31,10 +31,10 @@ When the last letter of the sequence is clicked appropriately then the last lett
 
 ### User Interface
 ![Image of interface](https://github.com/diannedejesus/spellinggame/blob/main/spellinggame.PNG)
-**Title:** Static display of the game's name.
-**Image:** A visualization of the word to be written by the user.
-**Letter Squares:** The correct spelling of the word.
-**Highlighted Letter Squares:** Visual guide to let the user know if they have typed the word correctly.
+- **Title:** Static display of the game's name.
+- **Image:** A visualization of the word to be written by the user.
+- **Letter Squares:** The correct spelling of the word.
+- **Highlighted Letter Squares:** Visual guide to let the user know if they have typed the word correctly.
 
 ## Future features and optimizations
 - Verify if words with repeated letters work properly.
